@@ -1,5 +1,11 @@
 # Apple iPad Responsive Web Site
+<div style=text-align:center>
 
+![HTML](https://img.shields.io/badge/HTML-5-E34F26?logo=HTML5&style=plastic)
+![CSS](https://img.shields.io/badge/CSS-3-1572B6?logo=CSS3&style=plastic)
+![javascript](https://img.shields.io/badge/javascript-ES6-yellow?logo=javascript&style=plastic)
+
+</div>
 ![ipad.jpg](./images/ipad-main.png)
 HTML, CSS, Javascript를 활용하여 만든 애플 아이패드 반응형 웹사이트 입니다.
 
