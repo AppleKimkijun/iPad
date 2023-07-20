@@ -28,7 +28,7 @@ Tablet - [iPad-tablet1000.app.pdf](./images/iPad-tablet1000.app.pdf)
 <br>
 <br>
 
-## 검색 버튼
+## 🔍 검색 버튼
 
 ![ipad-search.gif](./images/ipad-search.gif)
 
@@ -102,7 +102,7 @@ function stopScroll() {
 <br>
 <br>
 
-## 장바구니
+## 🧺 장바구니
 
 ![ipad-cart.gif](./images/ipad-cart.gif)
 
@@ -139,7 +139,7 @@ window.addEventListener('click',function () {
 <br>
 <br>
 
-## 스크롤 이벤트
+## ⬇️ 스크롤 이벤트
 
 ![ipad-scroll.gif](./images/ipad-scroll.gif)
 
@@ -168,7 +168,7 @@ infoEls.forEach(function(el) {
 <br>
 <br>
 
-## 아이콘 애니메이션
+## 👾 아이콘 애니메이션
 
 ![ipad-icon1.gif](./images/ipad-icon1.gif)
 
