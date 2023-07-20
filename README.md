@@ -6,6 +6,7 @@
 ![javascript](https://img.shields.io/badge/javascript-ES6-yellow?logo=javascript&style=plastic)
 
 </div>
+
 ![ipad.jpg](./images/ipad-main.png)
 HTML, CSS, Javascript를 활용하여 만든 애플 아이패드 반응형 웹사이트 입니다.
 
