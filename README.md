@@ -1,8 +1,7 @@
-# 1. Apple iPad Responsive Web Site
+# Apple iPad Responsive Web Site
 
 ![ipad.jpg](./images/ipad-main.png)
-
-- HTML, CSS, Javascript를 활용하여 만든 애플 아이패드 반응형 웹사이트 입니다.
+HTML, CSS, Javascript를 활용하여 만든 애플 아이패드 반응형 웹사이트 입니다.
 
 ### Git Link
 
@@ -12,19 +11,17 @@
 
 [iPad 10.2](https://applekimkijun-ipad.netlify.app/)
 
-### Responsive 아래⬇️에 pdf를 확인해 주세요! 또는 web Link에 개발자 모드로 확인해주세요!
+### Responsive
+<strong>아래⬇️에 pdf</strong>를 확인해 주세요! 또는 web Link에 개발자 모드로 확인해주세요!
 
-- 화면을 50% 로 보시면 이쁘게 보실 수 있습니다!
+Mobile - [iPad-mobile740.app.pdf](./images/iPad-mobile740.app.pdf)
 
-Mobile <br>
-[iPad-mobile740.app.pdf](./images/iPad-mobile740.app.pdf)
+Tablet - [iPad-tablet1000.app.pdf](./images/iPad-tablet1000.app.pdf)
 
-Tablet <br>
-[iPad-tablet1000.app.pdf](./images/iPad-tablet1000.app.pdf)
+<br>
+<br>
 
-# 2.  Web 설명
-
-## 2-1 검색
+## 검색 버튼
 
 ![ipad-search.gif](./images/ipad-search.gif)
 
@@ -95,7 +92,10 @@ function stopScroll() {
 }
 ```
 
-## 2-2 장바구니
+<br>
+<br>
+
+## 장바구니
 
 ![ipad-cart.gif](./images/ipad-cart.gif)
 
@@ -129,7 +129,10 @@ window.addEventListener('click',function () {
 });
 ```
 
-## 2-3 스크롤 이벤트
+<br>
+<br>
+
+## 스크롤 이벤트
 
 ![ipad-scroll.gif](./images/ipad-scroll.gif)
 
@@ -155,7 +158,10 @@ infoEls.forEach(function(el) {
 })
 ```
 
-## 2-4 아이콘 애니메이션
+<br>
+<br>
+
+## 아이콘 애니메이션
 
 ![ipad-icon1.gif](./images/ipad-icon1.gif)
 
