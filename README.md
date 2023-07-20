@@ -12,7 +12,7 @@
 
 [iPad 10.2](https://applekimkijun-ipad.netlify.app/)
 
-### Responsive 이미지 바로보기
+### Responsive 아래⬇️에 pdf를 확인해 주세요! 또는 web Link에 개발자 모드로 확인해주세요!
 
 - 화면을 50% 로 보시면 이쁘게 보실 수 있습니다!
 
